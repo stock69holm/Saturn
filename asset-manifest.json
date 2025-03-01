@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Saturn/static/css/main.4a0723d0.css",
-    "main.js": "/Saturn/static/js/main.a0ab772b.js",
-    "static/js/488.6d054df0.chunk.js": "/Saturn/static/js/488.6d054df0.chunk.js",
-    "static/media/Minecraft.ttf": "/Saturn/static/media/Minecraft.e01d4c33797bad833313.ttf",
+    "main.css": "/Saturn/static/css/main.770a9681.css",
+    "main.js": "/Saturn/static/js/main.38a62ec8.js",
+    "static/js/453.2887d7d6.chunk.js": "/Saturn/static/js/453.2887d7d6.chunk.js",
+    "static/media/font.ttf": "/Saturn/static/media/font.941842d11255509fb0f6.ttf",
     "index.html": "/Saturn/index.html",
-    "main.4a0723d0.css.map": "/Saturn/static/css/main.4a0723d0.css.map",
-    "main.a0ab772b.js.map": "/Saturn/static/js/main.a0ab772b.js.map",
-    "488.6d054df0.chunk.js.map": "/Saturn/static/js/488.6d054df0.chunk.js.map"
+    "main.770a9681.css.map": "/Saturn/static/css/main.770a9681.css.map",
+    "main.38a62ec8.js.map": "/Saturn/static/js/main.38a62ec8.js.map",
+    "453.2887d7d6.chunk.js.map": "/Saturn/static/js/453.2887d7d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a0723d0.css",
-    "static/js/main.a0ab772b.js"
+    "static/css/main.770a9681.css",
+    "static/js/main.38a62ec8.js"
   ]
 }
