@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Saturn/static/css/main.770a9681.css",
-    "main.js": "/Saturn/static/js/main.188ec71f.js",
+    "main.js": "/Saturn/static/js/main.d34b1f6b.js",
     "static/js/453.2887d7d6.chunk.js": "/Saturn/static/js/453.2887d7d6.chunk.js",
     "static/media/font.ttf": "/Saturn/static/media/font.941842d11255509fb0f6.ttf",
     "index.html": "/Saturn/index.html",
     "main.770a9681.css.map": "/Saturn/static/css/main.770a9681.css.map",
-    "main.188ec71f.js.map": "/Saturn/static/js/main.188ec71f.js.map",
+    "main.d34b1f6b.js.map": "/Saturn/static/js/main.d34b1f6b.js.map",
     "453.2887d7d6.chunk.js.map": "/Saturn/static/js/453.2887d7d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.770a9681.css",
-    "static/js/main.188ec71f.js"
+    "static/js/main.d34b1f6b.js"
   ]
 }
